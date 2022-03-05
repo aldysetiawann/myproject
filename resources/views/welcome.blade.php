@@ -19,7 +19,7 @@
                 height: 100vh;
                 margin: 0;
             }
-            
+
             .p {
                 color:aquamarine
                 font-size=100px
@@ -93,7 +93,7 @@
                     <img src="https://e7.pngegg.com/pngimages/217/312/png-clipart-pharmacy-health-care-health-cdr-text.png" class = "foto">
                 <div class="links">
                     <p>Toko Obat Dyvanza Farma</p>
-                    <a href="katalog">View All Catalogue</a>
+                    <a href="katalog">View All Catalogue Obat</a>
                     {{-- <a href="katalog/medicine">Medicine</a>
                     <a href="katalog/medequip">Medical Equipment</a>  --}}
                 </div>
