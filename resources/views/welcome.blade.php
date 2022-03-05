@@ -96,6 +96,7 @@
                     <a href="katalog">View All Catalogue Obat</a>
                     {{-- <a href="katalog/medicine">Medicine</a>
                     <a href="katalog/medequip">Medical Equipment</a>  --}}
+                    <b>ALDi</b>
                 </div>
             </div>
         </div>
